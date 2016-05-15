@@ -1,2 +1,2 @@
 # yii2Preform
-App with user-management and admin lte extension
+App with user-management and adminLTE extension
