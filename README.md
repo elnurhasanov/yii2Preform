@@ -1,7 +1,7 @@
 # yii2Preform
 App with user-management and adminLTE extension
 Yii 2 Advanced Project Template
-===============================
+
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
@@ -54,3 +54,5 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+=======
+>>>>>>> 07e8e40b0ee0ee8a678322c60e4b37d83d1879ff
